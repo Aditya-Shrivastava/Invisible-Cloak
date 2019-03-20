@@ -1,0 +1,15 @@
+#YELLOW:
+#mask1
+np.array([20, 100, 100])
+np.array([30, 255, 255])
+#mask2
+np.array([50, 100, 100])
+np.array([60, 255, 255])
+
+#RED:
+#mask1
+np.array([110,50,50])
+np.array([120,255,255])
+#mask2
+np.array([150,150,0])
+np.array([200,250,200])
